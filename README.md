@@ -2,7 +2,7 @@ https://user-images.githubusercontent.com/93090939/148083853-f093bfbc-7205-4987-
 
 # EN:
 
-# *Animation - Demonstrating Archimedes' pi estimative*
+# *Animation - Demonstrating Archimedes' π estimative*
 
 Language: Python 3
 
@@ -13,7 +13,7 @@ Short animation demonstrating the proccess by which Archimedes, in Ancient Greec
 
 # PT-BR:
 
-# *Animação - Demonstrando a estimativa do número pi feita por Arquimedes*
+# *Animação - Demonstrando a estimativa de π feita por Arquimedes*
 
 Linguagem usada: Python 3
 
