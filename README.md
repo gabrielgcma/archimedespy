@@ -1,3 +1,15 @@
+# EN:
+
+# *Animation - Demonstrating Archimedes' pi estimative*
+
+Language: Python 3
+Library: ManimCE
+
+Short animation demonstrating the proccess by which Archimedes, in Ancient Greece, estimated for the first time in mankind's history, the value of pi to the fourth decimal place. 
+
+
+# PT-BR:
+
 # *Animação - Demonstrando a estimativa do número pi feita por Arquimedes*
 
 Linguagem usada: Python 3
